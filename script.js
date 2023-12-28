@@ -18,7 +18,7 @@ actionLink.forEach((action) => {
     `;
 
     /**
-     * Untuk menghilangkan toast notification
+     * Untuk menghilangkan toast notifaction
      */
 
     setTimeout(() => {
